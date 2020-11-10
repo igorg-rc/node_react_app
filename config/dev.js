@@ -3,5 +3,5 @@ module.exports = {
   googleClientSecret: 'AIzaSyBt1UCGXgvYRrlgnGev0wjNVuji3SHsEOg',
   googleClientCallback: '/auth/google/callback',
   mongoURI: 'mongodb+srv://igor-1987:7KN2Cwxcc0Rtj7Y4@cluster0.mgaax.mongodb.net/emaily-dev?retryWrites=true&w=majority',
-  cookieKey: 'asjdkhsajkdhsuydsydwSKADKSLD1213'
+  cookieKey: 'asjdkhsajkdhsuydsyd3434mn3m433'
 };

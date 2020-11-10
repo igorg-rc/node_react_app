@@ -17,6 +17,5 @@ module.exports = (app) => {
     res.send(req.user);
     console.log('You have been successfuly signed out!');
   });
-
 };
 
